@@ -18,7 +18,7 @@ defaultOptions.styleSheets.push(`
 img {max-width: 100%}
 `)
 
-PreComponent.theme = 'dark';
+// PreComponent.theme = 'dark';
 const editor = createEditor('#editor', {
   // expandComponentLibrary: true,
   deviceWidth: '768px',
